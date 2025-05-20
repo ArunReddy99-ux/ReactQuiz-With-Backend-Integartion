@@ -34,26 +34,26 @@ A fully functional, interactive quiz application built with **React**. This proj
 react-quiz/
 │
 ├── public/
-│   └── logo512.png
+│   └── logo512.png  
 │
 ├── src/
-│   ├── components/
-│   │   ├── Appv-1.js
-│   │   ├── Header.js
-│   │   ├── Main.js
-│   │   ├── Loader.js
-│   │   ├── Error.js
-│   │   ├── Startscreen.js
-│   │   ├── Question.js
-│   │   ├── Options.js
-│   │   ├── NextButton.js
-│   │   ├── Progress.js
-│   │   ├── FinishedScreen.js
-│   │   ├── Timer.js
-│   │   └── Footer.js
-│   ├── questions.json
-│   ├── index.js
-│   └── index.css
+│   ├── components/  
+│   │   ├── Appv-1.js  
+│   │   ├── Header.js  
+│   │   ├── Main.js   
+│   │   ├── Loader.js  
+│   │   ├── Error.js  
+│   │   ├── Startscreen.js   
+│   │   ├── Question.js  
+│   │   ├── Options.js  
+│   │   ├── NextButton.js  
+│   │   ├── Progress.js  
+│   │   ├── FinishedScreen.js  
+│   │   ├── Timer.js  
+│   │   └── Footer.js  
+│   ├── questions.json  
+│   ├── index.js  
+│   └── index.css   
 │
 ├── package.json
 └── README.md
