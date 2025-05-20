@@ -54,8 +54,8 @@ react-quiz/
 │   ├── questions.json  
 │   ├── index.js  
 │   └── index.css   
-│
-├── package.json
+│  
+├── package.json  
 └── README.md
 
 ---
