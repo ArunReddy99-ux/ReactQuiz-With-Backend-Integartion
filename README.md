@@ -101,22 +101,20 @@ npm run server
 
 ## Folder Structure
 
-The-React-Quiz/
-├── backend/
-│   ├── models/
-│   │   └── User.js
-│   ├── routes/
-│   │   └── auth.js
-│   └── server.js
-├── src/
-│   ├── components/
-│   │   ├── Startscreen.js
-│   │   ├── ...
-│   ├── Contexts/
-│   │   └── QuizContext.js
-│   ├── index.js
-│   ├── index.css
-│   └── questions.json
-├── package.json
-└── README.md
+The-React-Quiz/  
+├── backend/  
+│   ├── models/  
+│   │     └── User.js  
+│   ├── routes/  
+│   │   └── auth.js  
+│   └── server.js  
+├── src/  
+│   ├── components/  
+│   │   ├── Startscreen.js  
+│   ├── Contexts/  
+│   │   └── QuizContext.js  
+│   ├── index.js  
+│   ├── index.css  
+│   └── questions.json  
+├── package.json  
 
