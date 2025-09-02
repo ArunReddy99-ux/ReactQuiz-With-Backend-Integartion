@@ -74,7 +74,7 @@ node server.js
 From the root folder, run:
 
 ```powershell
-npm start
+npm run start
 ```
 
 ### 4. (Optional) Start Mock API for Quiz Questions
